@@ -72,9 +72,13 @@ Example:
 
 ```json
 {
-"material": "Boston XO",
-"diameter_mm": 15.2,
-"curve_profile": "scleral_oblate"
+  "Name": "ALM01",
+  "Asset ID": "45452",
+  "SN": "A0704009",
+  "ALM Software Ver.": "5.440.6",
+  "OS": "Windows 10 Enterprise LTSC 32-Bit",
+  "OS Ver.": "1809",
+  "PC Name": "DACINTL-P6RLJ6L"
 }
 ```
 
